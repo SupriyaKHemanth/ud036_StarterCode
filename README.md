@@ -2,8 +2,8 @@
 MovieTrailer is a project to display movie trailer.
 
 # Install
-Install Python 2.7.15
-Run movie_trailer.py
+1. Install Python 2.7.15
+2. Run movie_trailer.py
 
 # License
 MIT License

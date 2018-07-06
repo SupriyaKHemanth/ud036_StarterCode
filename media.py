@@ -2,7 +2,7 @@ import webbrowser
 
 
 class Movie():
-    """The class stores information about a Movie .
+    """The class stores information about a Movie.
 
         Attributes:
             title (str): Title of the Movie.
